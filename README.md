@@ -1,2 +1,2 @@
-# Algo Image Processing
+# Algo Image Filters
  
